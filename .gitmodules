@@ -1,0 +1,3 @@
+[submodule "the-bug-space-backend"]
+	path = the-bug-space-backend
+	url = https://github.com/jasonchristopher21/the-bug-space-backend
